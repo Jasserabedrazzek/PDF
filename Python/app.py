@@ -6,7 +6,7 @@ st.set_page_config(page_title="3eme Math 2023",page_icon=":ledger:",layout="wide
 st.title('Les Parascolaires 3eme Math 2023 :books:')
 
 # -----------------------Path-------------------------------
-path1 = r"Atomix_chimie_3eme_math.pdf"
+path1 = r"/home/appuser/venv/Atomix_chimie_3eme_math.pdf"
 path2 = r"Atomix_physique_3eme_math.pdf"
 path3 = r"Collection_methodes_Chimie_3eme_secondaire_ocr.pdf"
 path4 = r"Cahiers_des_Mathematiques_Analyse_3eme_sec_Section_Math_ocr.pdf"
