@@ -7,15 +7,15 @@ st.title('Les Parascolaires 3eme Math 2023 :books:')
 
 # -----------------------Path-------------------------------
 path1 = r"Python/Atomix_chimie_3eme_math.pdf"
-path2 = r"Atomix_physique_3eme_math.pdf"
-path3 = r"Collection_methodes_Chimie_3eme_secondaire_ocr.pdf"
-path4 = r"Cahiers_des_Mathematiques_Analyse_3eme_sec_Section_Math_ocr.pdf"
-path5 = r"Cahiers_des_Mathematiques_Proba_Geo_3eme_sec_Section_Math_ocr.pdf"
-path6 = r"Collection_bios_sv3_3eme_math_ocr.pdf"
-path7 = r"falsafa 3eme.pdf"
-path8 = r"Manuel_scolaire_3_math_section_math_t2.pdf"
-path9 = r"xy_plus_3_mathematiques_section_3em_math_tome1.pdf"
-path10=r"xy_plus_3_mathematiques_section_3em_math_tome2.pdf"
+path2 = r"Python/Atomix_physique_3eme_math.pdf"
+path3 = r"Python/Collection_methodes_Chimie_3eme_secondaire_ocr.pdf"
+path4 = r"Python/Cahiers_des_Mathematiques_Analyse_3eme_sec_Section_Math_ocr.pdf"
+path5 = r"Python/Cahiers_des_Mathematiques_Proba_Geo_3eme_sec_Section_Math_ocr.pdf"
+path6 = r"Python/Collection_bios_sv3_3eme_math_ocr.pdf"
+path7 = r"Python/falsafa 3eme.pdf"
+path8 = r"Python/Manuel_scolaire_3_math_section_math_t2.pdf"
+path9 = r"Python/xy_plus_3_mathematiques_section_3em_math_tome1.pdf"
+path10=r"Python/xy_plus_3_mathematiques_section_3em_math_tome2.pdf"
 
 #------------------------------read file------------------------
 with open(path1, 'rb') as f:
