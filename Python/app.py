@@ -131,6 +131,9 @@ st.download_button(
     file_name='Philosophie.pdf',
     mime='application/pdf'
 )
+st.write('---')
+st.write('**Pdf Taki Academy**')
+st.markdown('[Drive Takiacademy](https://drive.google.com/drive/folders/1gN4RZQGaK7Z1v-YQIqmDnmBfxG35fCn6)')
 st.write("---")
 
 col11,col12 = st.columns(2)
