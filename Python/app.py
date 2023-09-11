@@ -132,7 +132,7 @@ st.download_button(
     mime='application/pdf'
 )
 st.write('---')
-st.write('**Pdf Taki Academy**')
+st.write('**Pdf Taki Academy 3eme math 2023**')
 st.markdown('[Drive Takiacademy](https://drive.google.com/drive/folders/1gN4RZQGaK7Z1v-YQIqmDnmBfxG35fCn6)')
 st.write("---")
 
